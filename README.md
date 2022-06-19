@@ -14,7 +14,7 @@ Esse projeto tem como propósito montar dois relógios, um sendo digital e outro
 
 ## 🚀 O projeto
 
-<img alt="index" height="300" width="500" src="img/relogio.png">
+<img alt="index" height="450" width="500" src="img/relogio.png">
 
 ---
 Deixo aqui os créditos a B7Web por ensinar a como criar esse projeto.
